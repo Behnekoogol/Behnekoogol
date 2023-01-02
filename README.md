@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beneko
-- 👀 I’m interested in ...Data science, python developing and languages!
-- 🌱 I’m currently learning ... machine learning and python 
+- 👀 I’m interested in Data science, python developing and languages!
+- 🌱 I’m currently learning Machine learning and python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by my email : behnekoogol@gmail.com
 
